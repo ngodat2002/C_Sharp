@@ -1,0 +1,5 @@
+C:\Users\Admin\source\repos\Console01\ImplicityTypedAndAnoymous_Types\obj\Debug\net5.0\ImplicityTypedAndAnoymous_Types.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Console01\ImplicityTypedAndAnoymous_Types\obj\Debug\net5.0\ImplicityTypedAndAnoymous_Types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Console01\ImplicityTypedAndAnoymous_Types\obj\Debug\net5.0\ImplicityTypedAndAnoymous_Types.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Console01\ImplicityTypedAndAnoymous_Types\obj\Debug\net5.0\ImplicityTypedAndAnoymous_Types.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Console01\ImplicityTypedAndAnoymous_Types\obj\Debug\net5.0\ImplicityTypedAndAnoymous_Types.csproj.CoreCompileInputs.cache

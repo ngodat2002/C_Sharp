@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\Console01\Console01\bin\Debug\net5.0\Console01.exe
+C:\Users\Admin\source\repos\Console01\Console01\bin\Debug\net5.0\Console01.deps.json
+C:\Users\Admin\source\repos\Console01\Console01\bin\Debug\net5.0\Console01.runtimeconfig.json
+C:\Users\Admin\source\repos\Console01\Console01\bin\Debug\net5.0\Console01.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Console01\Console01\bin\Debug\net5.0\Console01.dll
+C:\Users\Admin\source\repos\Console01\Console01\bin\Debug\net5.0\ref\Console01.dll
+C:\Users\Admin\source\repos\Console01\Console01\bin\Debug\net5.0\Console01.pdb
+C:\Users\Admin\source\repos\Console01\Console01\obj\Debug\net5.0\Console01.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Console01\Console01\obj\Debug\net5.0\Console01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Console01\Console01\obj\Debug\net5.0\Console01.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Console01\Console01\obj\Debug\net5.0\Console01.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Console01\Console01\obj\Debug\net5.0\Console01.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Console01\Console01\obj\Debug\net5.0\Console01.dll
+C:\Users\Admin\source\repos\Console01\Console01\obj\Debug\net5.0\ref\Console01.dll
+C:\Users\Admin\source\repos\Console01\Console01\obj\Debug\net5.0\Console01.pdb
+C:\Users\Admin\source\repos\Console01\Console01\obj\Debug\net5.0\Console01.genruntimeconfig.cache
