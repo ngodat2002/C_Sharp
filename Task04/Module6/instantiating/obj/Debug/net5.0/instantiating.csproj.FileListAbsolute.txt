@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\Module6\instantiating\bin\Debug\net5.0\instantiating.exe
+C:\Users\Admin\source\repos\Module6\instantiating\bin\Debug\net5.0\instantiating.deps.json
+C:\Users\Admin\source\repos\Module6\instantiating\bin\Debug\net5.0\instantiating.runtimeconfig.json
+C:\Users\Admin\source\repos\Module6\instantiating\bin\Debug\net5.0\instantiating.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Module6\instantiating\bin\Debug\net5.0\instantiating.dll
+C:\Users\Admin\source\repos\Module6\instantiating\bin\Debug\net5.0\ref\instantiating.dll
+C:\Users\Admin\source\repos\Module6\instantiating\bin\Debug\net5.0\instantiating.pdb
+C:\Users\Admin\source\repos\Module6\instantiating\obj\Debug\net5.0\instantiating.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Module6\instantiating\obj\Debug\net5.0\instantiating.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Module6\instantiating\obj\Debug\net5.0\instantiating.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Module6\instantiating\obj\Debug\net5.0\instantiating.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Module6\instantiating\obj\Debug\net5.0\instantiating.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Module6\instantiating\obj\Debug\net5.0\instantiating.dll
+C:\Users\Admin\source\repos\Module6\instantiating\obj\Debug\net5.0\ref\instantiating.dll
+C:\Users\Admin\source\repos\Module6\instantiating\obj\Debug\net5.0\instantiating.pdb
+C:\Users\Admin\source\repos\Module6\instantiating\obj\Debug\net5.0\instantiating.genruntimeconfig.cache

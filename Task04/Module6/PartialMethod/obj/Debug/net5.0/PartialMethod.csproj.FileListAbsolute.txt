@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\Module6\PartialMethod\bin\Debug\net5.0\PartialMethod.exe
+C:\Users\Admin\source\repos\Module6\PartialMethod\bin\Debug\net5.0\PartialMethod.deps.json
+C:\Users\Admin\source\repos\Module6\PartialMethod\bin\Debug\net5.0\PartialMethod.runtimeconfig.json
+C:\Users\Admin\source\repos\Module6\PartialMethod\bin\Debug\net5.0\PartialMethod.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Module6\PartialMethod\bin\Debug\net5.0\PartialMethod.dll
+C:\Users\Admin\source\repos\Module6\PartialMethod\bin\Debug\net5.0\ref\PartialMethod.dll
+C:\Users\Admin\source\repos\Module6\PartialMethod\bin\Debug\net5.0\PartialMethod.pdb
+C:\Users\Admin\source\repos\Module6\PartialMethod\obj\Debug\net5.0\PartialMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Module6\PartialMethod\obj\Debug\net5.0\PartialMethod.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Module6\PartialMethod\obj\Debug\net5.0\PartialMethod.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Module6\PartialMethod\obj\Debug\net5.0\PartialMethod.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Module6\PartialMethod\obj\Debug\net5.0\PartialMethod.dll
+C:\Users\Admin\source\repos\Module6\PartialMethod\obj\Debug\net5.0\ref\PartialMethod.dll
+C:\Users\Admin\source\repos\Module6\PartialMethod\obj\Debug\net5.0\PartialMethod.pdb
+C:\Users\Admin\source\repos\Module6\PartialMethod\obj\Debug\net5.0\PartialMethod.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\Module6\OutParametters\bin\Debug\net5.0\OutParametters.exe
+C:\Users\Admin\source\repos\Module6\OutParametters\bin\Debug\net5.0\OutParametters.deps.json
+C:\Users\Admin\source\repos\Module6\OutParametters\bin\Debug\net5.0\OutParametters.runtimeconfig.json
+C:\Users\Admin\source\repos\Module6\OutParametters\bin\Debug\net5.0\OutParametters.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Module6\OutParametters\bin\Debug\net5.0\OutParametters.dll
+C:\Users\Admin\source\repos\Module6\OutParametters\bin\Debug\net5.0\ref\OutParametters.dll
+C:\Users\Admin\source\repos\Module6\OutParametters\bin\Debug\net5.0\OutParametters.pdb
+C:\Users\Admin\source\repos\Module6\OutParametters\obj\Debug\net5.0\OutParametters.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Module6\OutParametters\obj\Debug\net5.0\OutParametters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Module6\OutParametters\obj\Debug\net5.0\OutParametters.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Module6\OutParametters\obj\Debug\net5.0\OutParametters.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Module6\OutParametters\obj\Debug\net5.0\OutParametters.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Module6\OutParametters\obj\Debug\net5.0\OutParametters.dll
+C:\Users\Admin\source\repos\Module6\OutParametters\obj\Debug\net5.0\ref\OutParametters.dll
+C:\Users\Admin\source\repos\Module6\OutParametters\obj\Debug\net5.0\OutParametters.pdb
+C:\Users\Admin\source\repos\Module6\OutParametters\obj\Debug\net5.0\OutParametters.genruntimeconfig.cache
