@@ -30,7 +30,7 @@ namespace Exercies1
             }
             else
             {
-                Console.WriteLine("End");
+                Console.WriteLine("No Sym Name Weight");
                 end = a;
                 return false;
             }
