@@ -31,7 +31,7 @@ namespace Exercies2
         }
         static void Main(string[] args)
         {
-            Employee e = new Employee("Duong", "Tran", "40 Tran phu", 123456789, 2000000);
+            Employee e = new Employee("Ngo", "Dat", "Bac Ninh", 123, 500000);
             Console.WriteLine(e.ToString());
             Console.WriteLine("Bonus: " + e.Bonus(50));
             Console.ReadLine();
