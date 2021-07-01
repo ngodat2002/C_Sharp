@@ -4,6 +4,8 @@ namespace Codesnipet6
 {
     class Animal
     {
+ // Ở animal khởi tạo 2 phương thúc một thức kh có dữ liệu một phương thức có truyền vào dữ liệu là một string (chuỗi)
+//
         public Animal()
         {
             Console.WriteLine("Animal contrucstor without parametters");
@@ -16,7 +18,7 @@ namespace Codesnipet6
     }
     class Canie : Animal
     {
-        public Canie() : base("Lion")
+        public Canie() 
         {
             Console.WriteLine("Derived Canine");
         }

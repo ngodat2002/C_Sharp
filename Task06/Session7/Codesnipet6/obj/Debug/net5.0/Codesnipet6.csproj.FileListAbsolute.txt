@@ -13,3 +13,4 @@ C:\Users\Admin\source\repos\Session7\Codesnipet6\obj\Debug\net5.0\Codesnipet6.dl
 C:\Users\Admin\source\repos\Session7\Codesnipet6\obj\Debug\net5.0\ref\Codesnipet6.dll
 C:\Users\Admin\source\repos\Session7\Codesnipet6\obj\Debug\net5.0\Codesnipet6.pdb
 C:\Users\Admin\source\repos\Session7\Codesnipet6\obj\Debug\net5.0\Codesnipet6.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Session7\Codesnipet6\obj\Debug\net5.0\Codesnipet6.csproj.AssemblyReference.cache
